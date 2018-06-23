@@ -1,0 +1,35 @@
+@media only screen and (max-width: 1200px){
+     
+}
+
+  @media only screen and (max-width: 1023px){
+   
+}
+
+  @media only screen and (max-width: 767px){
+    header{
+      font-size: 2.5vmin;
+      padding-top:4%;
+    }
+    .about{
+      width:100%;
+      height: 38%;
+      float: left;
+    }
+
+  .imgae-Location{
+    background-image:url("rsz_bruce-lee-picture-quotes-800x450.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    float: right;
+    width:100%;
+    height: 38%;
+    }
+}
+  @media only screen and (max-width: 480px){
+    header{
+      font-size: 2.5vmin;
+      padding-top:8%;
+    }
+
+}

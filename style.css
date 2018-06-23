@@ -1,0 +1,43 @@
+*{box-sizing: border-box;}
+html { line-height: 1.6;font-family: 'Rubik', sans-serif; }
+    
+body{ height: 100vh;   background: linear-gradient(to left, #83a4d4, #b6fbff);}
+  
+.container{height: 100%; padding:1%; font-size: 1.2em;}
+
+header{
+    height:12%;
+    text-align: center;
+    padding: 1%;
+    font-size: 2.2vmin;
+    line-height: 1em;
+    text-transform: uppercase;
+    box-shadow: 3px 3px 25px 2px rgba(0, 0, 0, .5);
+}
+.about{
+ height: 38%;
+ width:60%;
+ float: left;
+}
+.imgae-Location{
+    background-image:url("bruce-lee-picture-quotes-800x450.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    float: right;
+    width:40%;
+    height: 38%;
+
+}
+
+.bottom-section{
+    
+} 
+
+
+ /*.btn{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    background: steelblue;
+    padding: 1em 4em;
+  }*/
